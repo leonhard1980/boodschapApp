@@ -1,0 +1,54 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+
+}
+
+a,
+a:visited{
+    color: white;
+    text-decoration: none;
+    font-size: 23px;
+}
+a:hover {
+    color: yellowgreen;
+    font-size: 23px;
+}
+
+li{
+    margin-left: 45px;
+    margin-bottom: 12px;
+    color: white;
+    font-family: domus;
+
+}
+
+.plaatje {
+    margin: 4px;
+    margin-left: 14px;
+    margin-top: 10px;
+    width: 150px;
+    border-style: none;
+}
+
+.nav-container{
+    background-color: #2f2f3b;
+    display: flex;
+    flex-direction: column;
+    background: url('../assets/topfoto01.jpg') no-repeat fixed;
+}
+
+/*.active-link {
+    border-bottom: 2px solid white;
+}*/
+
+
+.inner-container{
+
+}
+
+.outer-container{
+
+}

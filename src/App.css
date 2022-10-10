@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+
+h1{
+  font-family: Marvin;
+  text-shadow: 2px 2px #2f2f3b;
+  padding: 12px;
+
+}
+
+article{
+  width: 100%;
+}
+
+
+
+
+
+
+.page-container {
+  width: 900px;
+  margin: 20px auto;
+  background-color: white;
+}

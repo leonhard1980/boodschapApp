@@ -1,0 +1,96 @@
+.topplaatje {
+    position: relative;
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/header01.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    line-height: 1.5;
+}
+.topplaatje2 {
+    position: relative;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/header02.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    line-height: 1.5;
+}
+
+.topplaatje3 {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/header03.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    line-height: 1.5;
+}
+
+.topplaatje4 {
+    position: relative;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/header04.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    line-height: 1.5;
+}
+
+.topplaatje5 {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/header05.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    line-height: 1.5;
+}
+
+.topplaatje6 {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/header06.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    line-height: 1.5;
+}
+
+.topplaatje7 {
+    position: relative;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/header07.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    line-height: 1.5;
+}

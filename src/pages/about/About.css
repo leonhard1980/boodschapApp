@@ -1,0 +1,19 @@
+p{
+    margin: 12px;
+}
+
+.koptekst{
+    background-color: #03b5aa;
+    color: #Fdffe5;
+}
+
+h2{
+    margin-bottom:21px;
+    margin-top: 10px;
+}
+
+
+
+.colums-3 {
+    column-count: 3;
+}
