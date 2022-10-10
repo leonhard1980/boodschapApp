@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/projectenwebstorm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Githuboefenen/.idea/Githuboefenen.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/State_usestate/.idea/State_usestate.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/componentenoefenen/.gitignore" beforeDir="false" />
@@ -139,7 +140,6 @@
       <change beforePath="$PROJECT_DIR$/kutzooi/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oefenen/.idea/oefenen.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oefenen/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/.idea/modules.xml" beforeDir="false" />
@@ -173,6 +173,9 @@
       <change beforePath="$PROJECT_DIR$/reacthook/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Tile/ProductTile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tile/ProductTile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Tile/ProductTile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tile/ProductTile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/statefulcomponents/.gitignore" beforeDir="false" />
@@ -356,7 +359,7 @@
       <workItem from="1664882489868" duration="3927000" />
       <workItem from="1665049181985" duration="13472000" />
       <workItem from="1665226902287" duration="33956000" />
-      <workItem from="1665387186473" duration="4071000" />
+      <workItem from="1665387186473" duration="6619000" />
     </task>
     <servers />
   </component>

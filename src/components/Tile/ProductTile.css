@@ -6,9 +6,9 @@
     align-items: center;
     margin: 4px;
     margin-bottom: 18px;
-    height: 255px;
+    height: 260px;
     color: #2f2f3b;
-    width: 125px;
+    width: 130px;
     background: url('../../assets/header05.jpg') fixed;
     box-shadow: 3px 3px 6px rgba(22, 22, 52, 0.95);
 }
@@ -21,7 +21,7 @@
 
 
 img{
-    width: 90px;
+    width: 92px;
     margin-bottom: 5px;
 }
 
@@ -34,6 +34,8 @@ img{
     align-items: center;
     margin: 0px;
     margin-bottom: -6px;
+    font-size: 12px;
+
 }
 
 .product-description{
@@ -48,4 +50,9 @@ img{
     background-color: #2f2f3b;
     color: white;
     font-size: 11px;
+}
+
+.counter{
+    background-color: #2f2f3b;
+    color: white;
 }

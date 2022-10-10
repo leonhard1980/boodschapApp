@@ -18,7 +18,7 @@ function Counter(){
 
         <>
 
-            <p className="bestel">
+            <p className="counter">
                 <button onClick={decrementCounter}> - </button>
                 <span> {counter} </span>
                 <button onClick={incrementCounter}> + </button>
