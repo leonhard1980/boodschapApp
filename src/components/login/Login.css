@@ -1,11 +1,27 @@
 .login-veld{
     width: 300px;
     background-color: #03b5aa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
 }
 
 
 
 
 label{
-    margin: 25px;
+    margin: 5px;
+}
+
+.login{
+    margin: 2px;
+    font-size: 1em;
+    padding: 0 0.90em;
+    border-radius: 5px;
+    border: none;
+    border-bottom: 2px solid #03b5aa;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
 }

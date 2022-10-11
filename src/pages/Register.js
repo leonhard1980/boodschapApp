@@ -4,21 +4,22 @@ import PhotoSlider from "../components/photoslider/PhotoSlider";
 import './Register.css';
 import axios from 'axios';
 import Bumper from "../components/bumper/Bumper";
-import {Link} from "react-router-dom";
+import {Link, useHistory} from "react-router-dom";
 
 
 // hier moet een POST request komen naar de database.
 /*const result = await axios.post('https://link-naar-endpoint.nl', {
-    age: 56,
-    city: 'Culemborg',
-    email: 'Leonhard.de.paepe@novi-education.nl',
-    newsletter: false,
-    sex: "man",
-    termsAndConditions: true,
-    zipcode: '3243AA',},
-    {
+  age: "56",
+city : "Culemborg",
+email : "leonart@gmail.com",
+housenumber : "21",
+name : "Leonhard de Paepe",
+newsletter : false,
+sex : "man",
+termsAndConditions : true,
+zipcode : "4102GB",
+}, {
     'Content-Type' : 'application/json'  //hier zeggen we Json te sturen, hier komt ook een authorisatie token.
-
 });*/
 
 
@@ -27,19 +28,19 @@ function Register() {
     const [checktandc, toggleChecktandc] = React.useState(false);
     const { register, handleSubmit, formState: {errors}, watch} = useForm();
     const leguit = watch("sex");
-
+    let history = useHistory();
 
     function onFormSubmit(data){
-        console.log(data)
+        console.log(data);
     }
 
+    function handleClick(){
+        history.push("./Profile");
+    }
 
     return(
         <>
-
-
-            <form
-                className="container"
+            <form className="container"
                 onSubmit={handleSubmit(onFormSubmit)}>
                 <fieldset>
                     <p></p>
@@ -144,6 +145,7 @@ function Register() {
                 <button
                     disabled={!checktandc}
                     type="submit"
+                    onClick={handleClick}
                 >
                     Schrijf mij in!
                 </button>

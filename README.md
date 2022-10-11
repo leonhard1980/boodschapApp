@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+useState gebruiken we als we iets EENMALIGS willen doen. Bijvoorbeeld een GET-request. 
+
+### in de .env.example staan de namen van de variabelen die je nodig hebt om het project te runnen.
+Dit token kun je aanmaken via de authorisatie van de backend. 

@@ -31,11 +31,17 @@ import productfoto21 from "../../assets/producten/021.jpg"
     {'Accept': 'application/json', //hier ook de authorisatietoken
     });*/
 
+// async function fetchData() {
+// try{
+// const result = await axios.get('https://localhost:8080');
+// } catch(e) {
+// console.error(e);
+// }}
+
 function Product() {
     return(
         <div>
 
-            <Bumper tekst="." />
 
             <h1 className="bekijkOnsAanbod"> Bekijk ons aanbod </h1>
     <article className="container-product">

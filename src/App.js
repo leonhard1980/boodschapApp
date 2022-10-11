@@ -8,6 +8,7 @@ import About from "./pages/about/About";
 import GetInvolved from "./pages/getinvolved/GetInvolved";
 import Product from "./pages/product/Product";
 import Home from "./pages/Home";
+import Profile from "./pages/profile/Profile";
 import {Link} from "react-router-dom";
 
 
@@ -31,6 +32,10 @@ function App() {
         </Route>
         <Route exact path="/">
             <Home />
+        </Route>
+
+        <Route exact path="/profile">
+            <Profile />
         </Route>
     </Switch>
 
